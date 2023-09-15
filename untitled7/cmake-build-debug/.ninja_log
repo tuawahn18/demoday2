@@ -1,0 +1,12 @@
+# ninja log v5
+3	96	7164880661369570	CMakeFiles/untitled7.dir/main.c.obj	53fa8b1b660dc944
+2	84	7164885364224996	CMakeFiles/untitled7.dir/name1.c.obj	af78c65aef2d4508
+85	203	7164885365352420	untitled7.exe	ec3f191763096b39
+3	102	7164884577990208	CMakeFiles/untitled7.dir/name.c.obj	1db0b9864a5d0c0c
+8	103	7164891396071250	CMakeFiles/untitled7.dir/math.c.obj	5eac24c69dd016b1
+3	103	7164891396071250	CMakeFiles/untitled7.dir/name1.c.obj	af78c65aef2d4508
+104	233	7164891397217548	untitled7.exe	dfb795c62277ab49
+2	110	7164892025061037	CMakeFiles/untitled7.dir/math.c.obj	5eac24c69dd016b1
+110	229	7164892026178079	untitled7.exe	dfb795c62277ab49
+3	93	7164895316257612	CMakeFiles/untitled7.dir/math.c.obj	5eac24c69dd016b1
+93	204	7164895317296751	untitled7.exe	dfb795c62277ab49
